@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Skin-Store Clone",
+    "imageSrc": "projects/skinstore.png",
+    "description": "SkinStore is an online marketplace that offers a vast catalog of beauty products comprising skincare, haircare, self-care, makeup, and body categories.",
+    "skills": ["HTML", "CSS", "Java Script"],
+    "Github": "https://github.com/yogeshkumawat007/Skinstore",
+    "Live": "https://high-fruit.netlify.app/"
+
+  },
+  {
+    "title": "Sanitizer Products Website",
+    "imageSrc": "projects/hanna.png",
+    "description": "Welcome to Sanitizers!.Explore our cutting-edge sanitizing products and solutions, designed to promote a healthier and safer environment",
+    "skills": ["HTML", "CSS", "Java Script","json-server","Firebase"],
+    "Github": "https://github.com/Sunil8090/choice_rice",
+    "Live": "https://653694e7d175843431d652d8--jocular-manatee-1fe350.netlify.app/unit5project/homepage"
+  }
+
+]
